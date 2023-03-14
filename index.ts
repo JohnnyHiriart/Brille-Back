@@ -29,7 +29,7 @@ const corsOptions: cors.CorsOptions = {
   credentials: true,
   // must-have for frontend to communicate with API
   origin: [
-    'https://brille-handbags.vercel.app',
+    'http://www.handbag-brille.vercel.app',
     'http://localhost:3000',
     'http://localhost:3002',
     'http://localhost:3001',
